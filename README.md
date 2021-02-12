@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am an aspiring IT expert in the field of Information Technology, specializing in Full-Stack Web Development with React and Node. Thank you for your interest on my Dev work. 
+
 <!--
 **wahid2272/wahid2272** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
